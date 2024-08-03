@@ -2,11 +2,17 @@
 The objective of this project is to analyze the factors affecting house prices in the Bay Area by examining various parameters. We achieved this by performing web scraping of property listings on Redfin, followed by data cleaning and exploratory data analysis. Our analysis included:
 
 Examining the distribution of house prices in the Bay Area.
+
 Identifying the top and bottom cities based on the average price per square foot.
+
 Analyzing the distribution of property types across counties.
+
 Investigating how different variables impact the housing market.
+
 Building a model to predict Redfin estimates for Bay Area houses.
+
 Drawing observations and insights from our analysis.
+
 Through these efforts, we aimed to gain a deeper understanding of the Bay Area's housing market and the factors driving its prices.
 
 # Data Dictionary
