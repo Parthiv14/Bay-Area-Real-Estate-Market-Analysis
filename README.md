@@ -17,21 +17,39 @@ Through these efforts, we aimed to gain a deeper understanding of the Bay Area's
 
 # Data Dictionary
 State: State of the property
+
 County: Area in which the property is located
+
 City: City of the property
+
 Street: Location of the property
+
 Zipcode: Zip Code of the property
+
 Property_Type: Type of Property
+
 Status: Availability of property for sale
+
 Price: Listed price/selling price/market value for the property
+
 Year_Built: Year of construction
+
 Beds: Number of rooms in the property
+
 Bath: Number of bathrooms in the property
+
 Sqft: Overall area in square feet
+
 Lot Area: Overall lot area in square feet
+
 HOA: Due Homeowner’s association fee per month
+
 School_rating: School score measures the education standard of nearby schools
+
 WalkScore: Walk Score measures the walkability of any address
+
 Bike_Score: Bike Score measures whether an area is good for biking
+
 Garage_availability: Availability of a garage in the property
+
 Redfin_estimate: Property price estimate provided by Redfin
